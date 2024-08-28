@@ -1,0 +1,12 @@
+process.env.APP_NAME="TestApp"
+process.env.APP_VERSION="1.0"
+process.env.PORT="5000"
+process.env.NODE_ENV="development"
+process.env.ENVIRONMENT="development"
+
+process.env.DATABASE_HOST="localhost"
+process.env.DATABASE_PORT="5496"
+process.env.DATABASE_USER="postgres"
+process.env.DATABASE_PASSWORD="postgrespassword"
+process.env.DATABASE_NAME="test_management"
+process.env.DB_SYNC="true"
